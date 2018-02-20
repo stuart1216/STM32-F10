@@ -1,5 +1,5 @@
-% median filter
-% 2016-05-05
+// median filter
+// 2016-05-05
 #define N 11
 char filter()
 {

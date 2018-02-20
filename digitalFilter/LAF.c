@@ -1,4 +1,4 @@
-% limiting amplitude wave filter
+// limiting amplitude wave filter
 #define A 10 // can be set by need
 char value;  // for 8 bit ADC only, can be set as 'bit'
 char laf()
